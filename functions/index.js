@@ -3,9 +3,7 @@ const express = require("express");
 const cors = require("cors");
 const { default: Stripe } = require("stripe");
 const { response } = require("express");
-const stripe = require("stripe")(
-  "sk_test_51Hf7zyDWbqqkMD1bnxvZ3GyXHY92qcERVaH4fHQhqCc36uMllRfuPiVcvOaBYws2WWc9U7zJwA2U5Rd7g5L16BlT00IGp8RUH9"
-);
+const stripe = require("stripe")(<Private Token>);
 
 //-API
 
