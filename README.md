@@ -1,3 +1,4 @@
+# E-Commerce:
 * Created Full Stack e-commerce website based on React, JavaScript, Html & CSS, Firebase.
 * Used React Context API for state management of application.
 * Created Cart component to add list of items from home component.
